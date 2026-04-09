@@ -153,4 +153,3 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ---
 
-*Built for 21CSE356T Natural Language Processing · SRM Institute of Science and Technology, Ramapuram, Chennai*
