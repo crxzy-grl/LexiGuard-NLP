@@ -1,6 +1,5 @@
 # 📄 Mini Plagiarism Detection System using NLP
 
-> **21CSE356T — Natural Language Processing · SRM Institute of Science and Technology**
 
 A fully **offline**, lightweight plagiarism checker built with Python and Streamlit. No internet connection, no API keys, no deep learning models — just interpretable classical NLP that runs on any standard laptop.
 
